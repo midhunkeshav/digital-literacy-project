@@ -48,7 +48,7 @@ Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. GitHub
 ### Task 3 – Coding & Collaboration Platforms
 Completed **"Solve Me First"** on HackerRank. Built a **5-question Digital Literacy Quiz** on Google Forms linked to a Google Sheet.
 
-**Google Form Quiz Link:** [Add after creating]
+**Google Form Quiz Link:** (https://docs.google.com/forms/d/113GoYe42D2oOlUuxoxD22UN-6xJ6I2Yhg7KQ6iXEFu4/edit)
 
 ### Task 4 – Email Etiquette
 Drafted two professional emails and created a Social Media Do's and Don'ts checklist.
@@ -65,7 +65,7 @@ Wrote a phishing case study and created a prevention checklist with 8 tips inclu
 | GitHub Profile | [(https://github.com/midhunkeshav/digital-literacy-project.git)] |
 | LinkedIn | www.linkedin.com/in/midhun-keshav-46a497384|
 | Kaggle | https://kaggle.com/midhunkeshavjt//|
-| Google Form Quiz | Add after creating |
+| Google Form Quiz | (https://docs.google.com/forms/d/113GoYe42D2oOlUuxoxD22UN-6xJ6I2Yhg7KQ6iXEFu4/edit) |
 | Cyber Crime Portal | https://cybercrime.gov.in |
 
 ---
