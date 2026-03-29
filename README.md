@@ -62,9 +62,9 @@ Wrote a phishing case study and created a prevention checklist with 8 tips inclu
 
 | Platform | Link |
 |----------|------|
-| GitHub Profile | https://github.com/YOURUSERNAME |
-| LinkedIn | https://linkedin.com/in/YOURPROFILE |
-| Kaggle | https://kaggle.com/YOURUSERNAME |
+| GitHub Profile | [(https://github.com/midhunkeshav/digital-literacy-project.git)] |
+| LinkedIn | www.linkedin.com/in/midhun-keshav-46a497384|
+| Kaggle | https://kaggle.com/midhunkeshavjt//|
 | Google Form Quiz | Add after creating |
 | Cyber Crime Portal | https://cybercrime.gov.in |
 
